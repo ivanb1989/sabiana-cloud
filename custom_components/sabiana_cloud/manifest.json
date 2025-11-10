@@ -1,7 +1,7 @@
 {
   "domain": "sabiana_cloud",
   "name": "Sabiana Cloud",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "config_flow": true,
   "documentation": "https://github.com/ivanb1989/sabiana-cloud",
   "issue_tracker": "https://github.com/ivanb1989/sabiana-cloud/issues",
