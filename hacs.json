@@ -1,6 +1,6 @@
 {
   "name": "Sabiana Cloud",
-  "render_readme": true,
-  "domains": ["sensor","climate"]
+  "domains": ["sabiana_cloud"],
+  "render_readme": true
 }
 
