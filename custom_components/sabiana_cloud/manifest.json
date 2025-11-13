@@ -8,7 +8,6 @@
   "iot_class": "cloud_polling",
   "integration_type": "service",
   "requirements": [],
-  "description": "Integration for Sabiana Cloud - Sabianet 3.0",
   "codeowners": ["@ivanb1989"],
   "homeassistant": "2024.1.0",
   "loggers": ["custom_components.sabiana_cloud"]
